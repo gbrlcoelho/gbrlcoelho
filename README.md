@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @gbrlcoelho
-- 👀 I’m interested in javascript, html, css, react
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me coelhogabriel67@gmail.com
+## Hi, I'm Gabriel Coelho.
 
-<!---
-gbrlcoelho/gbrlcoelho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div>
+   <a href="https://beacons.ai/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gbrlcoelho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbrlcoelho&layout=compact&langs_count=16&theme=dark"/>
+  </div>
