@@ -2,8 +2,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gbrlcoelho)](https://github.com/anuraghazra/github-readme-stats)
 <div align="center">
   <a href="https://github.com/gbrlcoelho">
-  <img height="180em" src= "[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gbrlcoelho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)" />
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gbrlcoelho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
+  <img height="180em" src= "[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gbrlcoelho&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)" />
+
   <img height="180em" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbrlcoelho)](https://github.com/gbrlcoelho/github-readme-stats)"/>
 </div>
 <div style="display: inline_block" align="center"><br>
