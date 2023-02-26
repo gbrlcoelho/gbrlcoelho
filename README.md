@@ -1,10 +1,10 @@
 ## Hi, I'm Gabriel Coelho.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gbrlcoelho)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gbrlcoelho)](https://github.com/anuraghazra/github-readme-stats) -->
 <div align="center">
   <a href="https://github.com/gbrlcoelho">
-<!--   <img height="180em" src= "[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gbrlcoelho&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)" />
+   <img height="180em" src= "[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gbrlcoelho&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)" />
 
-  <img height="180em" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbrlcoelho)](https://github.com/gbrlcoelho/github-readme-stats)"/> -->
+  <img height="180em" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbrlcoelho)](https://github.com/gbrlcoelho/github-readme-stats)"/>
 </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
