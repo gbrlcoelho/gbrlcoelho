@@ -1,4 +1,3 @@
-
 # Hi there, I'm Gabriel Coelho!
 
 I'm currently working with React Native and learning Flutter to expand my skills in mobile development.
@@ -21,7 +20,7 @@ I'm currently working with React Native and learning Flutter to expand my skills
 <div align="center"  style="display: inline_block">
   <a href="https://github.com/gbrlcoelho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gbrlcoelho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbrlcoelho&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbrlcoelho&layout=compact&theme=dracula"/>
 </div>
 
 ## Contact me
